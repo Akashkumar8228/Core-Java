@@ -1,0 +1,20 @@
+
+
+/*
+ i/p array of size n
+ Step 1 = CREATE A NEW ARRAY OF SIZE N
+ STEP 2 = COPY FIRST ELEMENT FROM ARRAY INTO NEW ARRAY
+ STEP 3 = CRAETE COUNTER K AND INTIALIZE TO ONE
+            (K = IT REPRESENT NUMBER OF UNIQUE ELEMENTS INSERTED INTO NEW ARRAY)
+ STEP 4 = ADD REMAINING UNIQUE ELEMENTS INTO NEW ARRAY
+ STEP 5 = TRIM THE SIZE OF NEW ARRAY TO K
+
+
+ */
+
+public class July10 {
+
+    public static void main(String[] args) {
+        
+    }
+}
